@@ -50,7 +50,7 @@
           },
           "title": "",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://toypsweb.mobirisesite.com/\" data-toolbar=\"-mbrBtnMove\">GUEST│來賓</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.toyps.ttct.edu.tw/ezcatfiles/toyps/homepage/2/index.html\" data-toolbar=\"-mbrBtnMove\">STAFF│教職員</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://toyps.github.io/guest/\" data-toolbar=\"-mbrBtnMove\">GUEST│來賓</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://toyps.github.io/school/\" data-toolbar=\"-mbrBtnMove\">STAFF│教職員</a>",
           "alias": "purity/components",
           "_tags": [
             "主题"
